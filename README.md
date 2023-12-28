@@ -20,4 +20,4 @@ Los datos utilizados son públicos y están alojados en la página web oficial d
 
 Para el funcionamiento del dashboard es necesario crear los archivos de datos **tabla.csv** y **tabla_sexos.csv**, como se explicó anteriormente estos archivos ya están creados utilizando el periodo anteriormente indicado. La creación de estos datos es posible utilizando el archivo **crear_tablas.R** del repositorio.
 
-Una vez creados los archivos de datos anteriormente indicados es necesario alojarlos en el mismo directorio de trabajo que el archivo App_Shiny.r, este archivo da origen al dashboard y es en el que se pueden realizar modificaciones visuales en caso de ser necesario.
+Una vez creados los archivos de datos anteriormente indicados es necesario alojarlos en el mismo directorio de trabajo que el archivo **App_Shiny.r**, este archivo da origen al dashboard y es en el que se pueden realizar modificaciones visuales en caso de ser necesario.
