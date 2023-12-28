@@ -10,7 +10,7 @@ Este dashboard fue creado para el Instituto Nacional de Estadísticas (INE), en 
 
 ![dashboard_ine](https://github.com/miguellopez4/R-Shiny-Dashborad-INE-Chile/assets/89881027/952fe87f-f037-4841-97fa-f56ce23abf50)
 
-# Datos usados
+## Datos usados
 
 Link a los datos: https://www.ine.gob.cl/estadisticas/sociales/mercado-laboral/ocupacion-y-desocupacion
 
@@ -21,3 +21,9 @@ Los datos utilizados son públicos y están alojados en la página web oficial d
 Para el funcionamiento del dashboard es necesario crear los archivos de datos **tabla.csv** y **tabla_sexos.csv**, como se explicó anteriormente estos archivos ya están creados utilizando el periodo anteriormente indicado. La creación de estos datos es posible utilizando el archivo **crear_tablas.R** del repositorio.
 
 Una vez creados los archivos de datos anteriormente indicados es necesario alojarlos en el mismo directorio de trabajo que el archivo **App_Shiny.r**, este archivo da origen al dashboard y es en el que se pueden realizar modificaciones visuales en caso de ser necesario.
+
+## Notas de Version
+
+### Versión 1.0.0 (28 de diciembre de 2023)
+
+* Publicación inicial: Primera Versión del dashboard.
