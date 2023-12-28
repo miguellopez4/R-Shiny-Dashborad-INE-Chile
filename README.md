@@ -28,4 +28,4 @@ Una vez creados los archivos de datos anteriormente indicados es necesario aloja
 
 * Publicación inicial: Primera Versión del dashboard.
 
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE(LICENSE) para obtener más detalles.
+Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más detalles.
