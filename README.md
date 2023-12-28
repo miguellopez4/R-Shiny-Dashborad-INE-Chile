@@ -10,7 +10,7 @@ Este dashboard fue creado para el Instituto Nacional de Estadísticas (INE), en 
 
 ![dashboard_ine](https://github.com/miguellopez4/R-Shiny-Dashborad-INE-Chile/assets/89881027/952fe87f-f037-4841-97fa-f56ce23abf50)
 
-## Datos usados
+## Datos Usados
 
 Link a los datos: https://www.ine.gob.cl/estadisticas/sociales/mercado-laboral/ocupacion-y-desocupacion
 
